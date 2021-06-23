@@ -7,8 +7,8 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Locale.setDefault(Locale.US); 
-		int x =0; 
-		
+		int x =0;  
+		// teste gitHub 
 		// A main de fato começa aqui.
 			
 			int codigo, quantidade, c;
